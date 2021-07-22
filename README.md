@@ -2,4 +2,9 @@
 
 
 
-Olá!! Bem vindo!
+Olá!! Bem-vindo!
+
+
+
+- Receita de Strogonoff;
+- Receita de carne de soja;
